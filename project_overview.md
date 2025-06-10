@@ -8,3 +8,4 @@ I will also look at other factors that can influence power prices, such as fuel 
 
 Once I have all the data gathered an organised, my plan is to developa an effective model for forcasting day ahead prices of power using a number of Mathematical and ML models in an attempt to make the most accurate model possible.
 Once I am confident that I have developed an accurate model for forcasting day ahead prices of power, I indend on using this model to develop and backtest a trading strategy capable of showing consistent returns over a long period of time.
+Due to the size of the data files, I am unable to upload the data that I have collected. I will continue to work on this project and perhaps upload the results of it here upon completion.
