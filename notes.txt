@@ -1,0 +1,1 @@
+the contents of european_wholesale_electricity_price_data_daily.csv was collected from emberenergy.org and contains the daily prices of european power (eur/MWh) from 01/01/2015 - 09/06/2025
